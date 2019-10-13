@@ -1,0 +1,2 @@
+# Synchronizer_TokenPattern
+SynchronizerTokenPattern
